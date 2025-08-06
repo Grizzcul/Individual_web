@@ -1,0 +1,13 @@
+hello 
+来一点更改，tmd说我啥都没变
+好难
+哈哈哈哈哈哈
+git push=--=-=-推送
+
+# 把删除和新增一起放进暂存区
+git add -A
+
+# 提交
+git commit -m "delete hello.txt and add hellotest.txt"
+
+git add . # 当前目录及其子目录里的变化，不包括你用 git rm 或手动删除的文件
